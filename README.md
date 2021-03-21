@@ -1,6 +1,6 @@
 # Instagram-login-clone 
 
-<p> Durante o bootcamp da Avanade na Digital Innovation One, consegui aprimorar meus conhecimentos em CSS e HTML replicando a tela de login do Instagram <p> 🛰️
+Durante o bootcamp da Avanade na Digital Innovation One, consegui aprimorar meus conhecimentos em CSS e HTML replicando a tela de login do Instagram 🛰️
 
 ### Tecnologias Utilizadas 👨‍💻: 
 - HTML
